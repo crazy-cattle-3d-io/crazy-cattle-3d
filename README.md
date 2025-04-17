@@ -26,7 +26,7 @@ Welcome to *crazy-cattle-3d.io*, where explosive sheep and physics-driven chaos 
   - Charge Collisions: `Spacebar` or left click  
   - Special Moves: `E`/`Q` for jumps and evasive actions  
 
-![Crazy Cattle 3D](file:///Users/lizheng20/Downloads/crazycattle3d.webp) *Replace with actual image path*  
+![Crazy Cattle 3D](https://raw.githubusercontent.com/crazy-cattle-3d-io/crazy-cattle-3d/refs/heads/main/crazycattle3d.webp)
 
 ---
 
