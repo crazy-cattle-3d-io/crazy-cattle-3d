@@ -1,81 +1,79 @@
-# Crazy Cattle 3D Overview  
+# 🐑 Crazy Cattle 3D Overview  
 
-Welcome to **crazy-cattle-3d.io**, where explosive sheep and physics-driven chaos collide in *Crazy Cattle 3D*! This unique physics-based battle royale swaps soldiers for sheep, challenging players to master momentum, collisions, and strategic positioning across dynamic global maps. Perfect for fans of slapstick fun and skill-driven competition!  
-[Play Now →](https://crazy-cattle-3d.io/)  
----
-
-## Let’s Explore Crazy Cattle 3D  
-1. **[Why Choose Crazy Cattle 3D?](#why-choose-crazy-cattle-3d)**  
-2. **[Gameplay & Features](#gameplay--features)**  
-3. **[Community & Competition](#community--competition)**  
-4. **[How to Play?](#how-to-play)**  
-5. **[Download & Start Now](#download--start-now)**  
+Welcome to *crazy-cattle-3d.io*, where explosive sheep and physics-driven chaos collide in *Crazy Cattle 3D*! This unique physics-based battle royale swaps soldiers for sheep, challenging players to master momentum, collisions, and strategic positioning across dynamic global maps. Perfect for fans of slapstick fun and skill-driven competition!  
 
 ---
 
-## Why Choose Crazy Cattle 3D?  
-*Crazy Cattle 3D* redefines battle royale with:  
-- **Explosive Sheep**: Swap guns for chaotic, physics-driven rampages.  
-- **Zero Pay-to-Win**: Skill triumphs over grinding or purchases.  
-- **Global Maps**: Adapt strategies to Ireland’s hills, Iceland’s volcanoes, and New Zealand’s cliffs.  
+## 🎯 Why Choose Crazy Cattle 3D?  
+*Crazy Cattle 3D* redefines battle royale with explosive sheep, physics-driven gameplay, and zero pay-to-win mechanics. Outsmart opponents by mastering collisions, terrain tactics, and chaotic momentum—no grinding, just pure skill!  
 
 ---
 
-## Gameplay & Features  
+## 🎮 Gameplay & Features  
 
-### Core Mechanics  
-- **Physics-Based Chaos**: Realistic sheep movement powered by a cutting-edge engine.  
-- **Dynamic Maps**: Unique terrain tactics for each global location.  
-- **Skill-Driven Progression**: No unlocks—victory depends on mastery.  
-- **Quick Matches**: 30-minute sessions packed with competition.  
+### 🔧 Core Mechanics:  
+- **Physics-Based Chaos**: Realistic sheep movement and collisions powered by a cutting-edge engine.  
+- **Global Maps**: Battle across Ireland’s hills, Iceland’s volcanoes, and New Zealand’s mountains—each requiring unique strategies.  
+- **Skill-Driven Progression**: No unlocks or upgrades—victory depends on your mastery of physics and positioning.  
+- **Quick Matches**: 30-minute sessions packed with laughter and competition.  
 
-### Key Features  
-- **Multi-Platform**: Play on Windows, Mac, or Linux.  
-- **Cartoonish Visuals**: Vibrant environments and whimsical animations.  
-- **Competitive Scene**: Join tournaments and climb community-led rankings.  
-- **Intuitive Controls**:  
-  - Movement: `WASD`/arrow keys  
-  - Charge: `Spacebar`/left click  
-  - Special Moves: `E`/`Q` for jumps  
+### ✨ Key Features:  
+- 🖥️ **Multi-Platform Support**: Play on Windows, Mac, or Linux.  
+- 🎨 **Cartoonish Visuals**: Whimsical sheep animations and vibrant environments.  
+- 🏆 **Competitive Scene**: Join tournaments and climb community-led rankings.  
+- 🕹️ **Intuitive Controls**:  
+  - Movement: `WASD` or arrow keys  
+  - Charge Collisions: `Spacebar` or left click  
+  - Special Moves: `E`/`Q` for jumps and evasive actions  
 
-
-![Crazy Cattle 3D Gameplay](image-url-here) *Replace with actual image link*  
-
----
-
-## Community & Competition  
-- **Passionate Community**: Player-run tournaments and rankings.  
-- **Learn & Compete**: Watch top players for tactics or showcase your skills in chaotic showdowns!  
+![Crazy Cattle 3D](file:///Users/lizheng20/Downloads/crazycattle3d.webp) *Replace with actual image path*  
 
 ---
 
-## How to Play Crazy Cattle 3D?  
+## 🌐 Community & Competition  
+*Crazy Cattle 3D*'s passionate community hosts player-run tournaments and rankings, fostering a lively competitive scene. Watch top players to learn advanced tactics or showcase your skills in chaotic sheep showdowns!  
 
-### Step-by-Step Guide  
-1. **Download**: Visit [https://crazy-cattle-3d.io/](https://crazy-cattle-3d.io/) for Win/Mac/Linux.  
+---
+
+## 🕹️ How to Play Crazy Cattle 3D?  
+
+### 📋 Step-by-Step Guide:  
+1. **Download**: Visit [crazy-cattle-3d.io/](https://crazy-cattle-3d.io/) and install for your platform (Win/Mac/Linux).  
 2. **Master Controls**:  
-   - Move: `WASD`/arrow keys  
-   - Charge: `Spacebar`/left click  
-   - Specials: `E`/`Q`  
-3. **Survive & Strategize**: Use terrain to build momentum and knock opponents off maps.  
-4. **Learn Maps**: Adapt to hazards like lava (Iceland) or cliffs (New Zealand).  
-5. **Compete**: Join matches and dominate leaderboards!  
+   - Movement: `WASD` or arrow keys  
+   - Charge: `Spacebar` or left click  
+   - Specials: `E`/`Q` for jumps  
+3. **Survive & Strategize**: Use terrain to build momentum and knock opponents off the map.  
+4. **Learn Maps**: Adapt tactics to Ireland’s slopes, Iceland’s lava, or New Zealand’s cliffs.  
+5. **Compete**: Join matches, climb leaderboards, and dominate tournaments!  
 
-### Pro Tips  
-- ⏱️ **Timing is Key**: Perfect charges maximize knockouts.  
-- 🗺️ **Map Awareness**: Leverage environmental hazards.  
-- ⚖️ **Avoid Overcommitment**: Balance aggression and survival.  
+### 💡 Pro Tips:  
+- ⏱️ **Timing is Key**: Perfect collision timing maximizes knockouts.  
+- 🗺️ **Map Awareness**: Use environmental hazards (e.g., volcanoes) to your advantage.  
+- ⚖️ **Avoid Overcommitment**: Balance aggression with survival.  
 
 ---
 
-## Download & Start Now  
+## ✅ Advantages & Drawbacks  
+| 👍 **Pros** | 👎 **Cons** |  
+|------------|------------|  
+| 🐑 Endless replayability with physics-driven chaos | 📉 Steep learning curve for physics mastery |  
+| 🏅 Skill-based progression—no pay-to-win | 🎭 Quirky theme may not appeal to traditional BR fans |  
+| 🌈 Whimsical visuals and cross-platform accessibility | 🎮 Indie-scale content vs. AAA titles |  
 
-### Advantages & Drawbacks  
-| ✅ **Pros** | ❌ **Cons** |  
-|-------------|-------------|  
-| Endless physics-driven replayability | Steep learning curve |  
-| Skill-based, no pay-to-win | Quirky theme may not appeal to traditional BR fans |  
-| Cross-platform accessibility | Indie-scale content vs. AAA titles |  
+---
+
+## 🎬 Media  
+▶️ Check out Crazy Cattle 3D gameplay videos on our [YouTube Channel](https://www.youtube.com/results?search_query=crazycattle3d)  
+
+## 🔗 Links  
+- 🌐 **Official Website**: [crazy-cattle-3d.io](https://crazy-cattle-3d.io)  
+- 📱 **TikTok**: [CrazyCattle3D](https://www.tiktok.com/search?q=crazycattle3d)  
+
+---
+
+## 📝 License  
+*Crazy Cattle 3D* is an independently developed game. All rights reserved.  
 
 **Ready to rampage as a physics-powered sheep?**  
-[Play Now →](https://crazy-cattle-3d.io/)  
+[🐑 Play Crazy Cattle 3D Now! →](https://crazy-cattle-3d.io/)  
