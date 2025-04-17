@@ -1,7 +1,8 @@
 # 🐑 Crazy Cattle 3D Overview  
-
+![Crazy Cattle 3D](https://raw.githubusercontent.com/crazy-cattle-3d-io/crazy-cattle-3d/refs/heads/main/crazycattle3d.webp)
 Welcome to *crazy-cattle-3d.io*, where explosive sheep and physics-driven chaos collide in *Crazy Cattle 3D*! This unique physics-based battle royale swaps soldiers for sheep, challenging players to master momentum, collisions, and strategic positioning across dynamic global maps. Perfect for fans of slapstick fun and skill-driven competition!  
 
+[🐑 Play Crazy Cattle 3D Now! →](https://crazy-cattle-3d.io/)  
 ---
 
 ## 🎯 Why Choose Crazy Cattle 3D?  
@@ -25,8 +26,6 @@ Welcome to *crazy-cattle-3d.io*, where explosive sheep and physics-driven chaos 
   - Movement: `WASD` or arrow keys  
   - Charge Collisions: `Spacebar` or left click  
   - Special Moves: `E`/`Q` for jumps and evasive actions  
-
-![Crazy Cattle 3D](https://raw.githubusercontent.com/crazy-cattle-3d-io/crazy-cattle-3d/refs/heads/main/crazycattle3d.webp)
 
 ---
 
